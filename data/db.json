@@ -69,14 +69,14 @@
             "id": "1",
             "author": "ABC",
             "description": "Since the arrival of OpenAI’s ChatGPT in November, the clever AI-powered chatbot has taken the world by storm as people take the tool for a spin while also speculating about how the technology might transform the workplace and wider society.But for the first time since ChatGPT landed toward the end of last year, visits to the chatbot’s website have dipped, analytics firm Similarweb said.",
-            "photo": "Rose-modified.png",
+            "photo": "Tulip-modified.png",
             "githubId": "https://github.com/OpenLake"
         },
         {
             "id": "2",
             "author": "BCD",
             "description": "SpaceX has successfully launched a Falcon 9 booster for a record 16th time, highlighting once again the company’s ability to reuse the first-stage booster for multiple space missions.The Falcon 9 lifted off from the Kennedy Space Center at 11:58 p.m. ET on Sunday, carrying with it 22 next-generation satellites for SpaceX’s internet-from-space service, called Starlink.",
-            "photo": "Jasmine-modified.png",
+            "photo": "Tulip-modified.png",
             "githubId": "https://github.com/OpenLake"
         },
         {
@@ -90,14 +90,14 @@
             "id": "4",
             "author": "DEF",
             "description": "The central processing unit (CPU), also known as the processor, is the very heart of your computer. Responsible for anything from running Netflix to assisting in complex AI tasks, it’s one of the few components without which your PC really can’t run. That’s why it’s so important that you buy one of the best processors available.However important the choice might be, deciding on a processor can be challenging.",
-            "photo": "Rose-modified.png",
+            "photo": "Tulip-modified.png",
             "githubId": "https://github.com/OpenLake"
         },
         {
             "id": "5",
             "author": "EFG",
             "description": "As well as observing specific objects like distant galaxies and planets here in our solar system, the James Webb Space Telescope is also being used to perform wide-scale surveys of parts of the sky. These surveys observe large chunks of the sky to identify important targets like very distant, very early galaxies, as well as observe intriguing objects like black holes. And one such survey has recently identified the most distant active supermassive black hole seen so far.",
-            "photo": "Jasmine-modified.png",
+            "photo": "Tulip-modified.png",
             "githubId": "https://github.com/OpenLake"
         },
         {
@@ -108,38 +108,38 @@
             "githubId": "https://github.com/OpenLake"
         }
     ],
-    "projects" : [
+    "projects": [
         {
-            "id" : "1",
-            "title" : "CanonForces",
-            "author" : "Adarsh Anand",
-            "description" : "Canon forces is a coding playground which keeps track of all your progress in various competitive competition websites. You can also compete with your friend on a real-time basis so as to improve your coding experience. You can avail more features such as collaborative coding session with your collaborators.",
-            "photo" : "canonforces2.png",
-            "link" : "https://github.com/OpenLake/canonforces"
+            "id": "1",
+            "title": "CanonForces",
+            "author": "Adarsh Anand",
+            "description": "Canon forces is a coding playground which keeps track of all your progress in various competitive competition websites. You can also compete with your friend on a real-time basis so as to improve your coding experience. You can avail more features such as collaborative coding session with your collaborators.",
+            "photo": "canonforces2.png",
+            "link": "https://github.com/OpenLake/canonforces"
         },
         {
-            "id" : "2",
-            "title" : "Activity Tracker",
-            "author" : "Ambar",
-            "description" : "We spend a lot of their time on screens and it's quite easy to lose track of the time we spend digitally. There are existing solutions to track their life but most of them are either paid, steal personal data or aren't visually appealing. That's why we decided to build this project. It will collect data on Mobile as well as Desktop devices and show them in a Progressive Web App(PWA).",
-            "photo" : "activitytracker.png",
-            "link" : "https://github.com/OpenLake/Activity-Tracker"
+            "id": "2",
+            "title": "Activity Tracker",
+            "author": "Ambar",
+            "description": "We spend a lot of their time on screens and it's quite easy to lose track of the time we spend digitally. There are existing solutions to track their life but most of them are either paid, steal personal data or aren't visually appealing. That's why we decided to build this project. It will collect data on Mobile as well as Desktop devices and show them in a Progressive Web App(PWA)..",
+            "photo": "activitytracker.png",
+            "link": "https://github.com/OpenLake/Activity-Tracker"
         },
         {
-            "id" : "3",
-            "title" : "Photo Sharing",
-            "author" : "Aneesh Tickoo",
-            "description" : "Photo Sharing App is a web app that allows a user to get group photos that include them without having to keep or sort through all of the photos, saving them time and storage space. When a photo is uploaded, the app identifies the faces in it and arranges them according to the users who have been identified. Each identified user gets a separate album with all their photos allowing them to get the photos they need seamlessly. Upload group photos, arrange them by faces using ML and share them with ease.",
-            "photo" : "photosharing.png",
-            "link" : "https://github.com/OpenLake/Photo-Sharing-App"
+            "id": "3",
+            "title": "Photo Sharing",
+            "author": "Aneesh Tickoo",
+            "description": "Photo Sharing App is a web app that allows a user to get group photos that include them without having to keep or sort through all of the photos, saving them time and storage space. When a photo is uploaded, the app identifies the faces in it and arranges them according to the users who have been identified. Each identified user gets a separate album with all their photos allowing them to get the photos they need seamlessly. Upload group photos, arrange them by faces using ML and share them with ease.",
+            "photo": "photosharing.png",
+            "link": "https://github.com/OpenLake/Photo-Sharing-App"
         },
         {
-            "id" : "4",
-            "title" : "Knowledge Sharing Platform",
-            "author" : "Anshuman",
-            "description" : "Knowledge sharing platform application aims to get the students acquainted with the courses, professors, evaluation schemes. The said things can be achieved via gathering course feedback, professor feedback, and previous year grading schemes. This can be done by making a portal (just like a blog site) where people can share their honest reviews without being scrutinized much. Getting reviews from mass makes it easy for one to choose the particular course and get the right information about that course.",
-            "photo" : "ksp.png",
-            "link" : "https://github.com/OpenLake/Knowledge-Sharing-Platform"
+            "id": "4",
+            "title": "Knowledge Sharing Platform",
+            "author": "Anshuman",
+            "description": "Knowledge sharing platform application aims to get the students acquainted with the courses, professors, evaluation schemes. The said things can be achieved via gathering course feedback, professor feedback, and previous year grading schemes. This can be done by making a portal (just like a blog site) where people can share their honest reviews without being scrutinized much. Getting reviews from mass makes it easy for one to choose the particular course and get the right information about that course.",
+            "photo": "ksp.png",
+            "link": "https://github.com/OpenLake/Knowledge-Sharing-Platform"
         }
     ]
 }
